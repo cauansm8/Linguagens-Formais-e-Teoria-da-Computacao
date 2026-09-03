@@ -1,0 +1,26 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.txt-container {
+    margin: 10px;
+}
+
+.principal-container h1 {
+    text-align: center;
+}
+
+label {
+    font-size: larger;
+}
+
+input {
+    height: 40px;
+    width: 300px;
+    margin-top: 5px;
+    border-radius: 30px;
+    border-width: 3px;
+    border-color: cornflowerblue;
+    padding-left: 15px;
+    font-size: medium;
+}
