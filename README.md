@@ -2,4 +2,6 @@
 
 Professor: Celso Olivete Junior
 
-## Expressões Regulares - Regex ##
+## Expressões Regulares ##
+
+## Gramática Regular + Expressões Regulares ##
